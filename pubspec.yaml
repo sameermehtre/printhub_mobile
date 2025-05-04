@@ -43,6 +43,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   widgets_easier: ^0.0.10
+  flutter_bloc: ^9.1.1
  
 
 dev_dependencies:
